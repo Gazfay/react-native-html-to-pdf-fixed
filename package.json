@@ -1,0 +1,53 @@
+{
+  "_from": "react-native-html-to-pdf",
+  "_id": "react-native-html-to-pdf@0.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QjpKAkSMeWeTwzhtZ7kCL6BQQInjf+vEaUPwFgW6DtuCEwQSH/iGX6wwfJRHeFJz+asalqq/+4cuCHhY9QE5rQ==",
+  "_location": "/react-native-html-to-pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-html-to-pdf",
+    "name": "react-native-html-to-pdf",
+    "escapedName": "react-native-html-to-pdf",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-html-to-pdf/-/react-native-html-to-pdf-0.6.0.tgz",
+  "_shasum": "0990ca94f145dc9e239c5d0af430c45eb761ac48",
+  "_spec": "react-native-html-to-pdf",
+  "_where": "/Users/bot/boss-app",
+  "author": {
+    "name": "Christopher Dro",
+    "email": "casheghian@gmail.com",
+    "url": "http://chris.si"
+  },
+  "bugs": {
+    "url": "https://github.com/christopherdro/react-native-html-to-pdf/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Convert html strings to PDF documents using React Native",
+  "homepage": "https://github.com/christopherdro/react-native-html-to-pdf#readme",
+  "keywords": [
+    "html",
+    "pdf",
+    "react-native"
+  ],
+  "license": "MIT",
+  "name": "react-native-html-to-pdf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherdro/react-native-html-to-pdf.git"
+  },
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "version": "0.6.0"
+}
